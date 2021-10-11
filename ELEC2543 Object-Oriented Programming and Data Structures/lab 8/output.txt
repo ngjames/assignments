@@ -1,0 +1,97 @@
+John has cards: [D5, D7, S7, D8, SA]
+
+Mary has cards: [S2, C4, C8, CK, HK]
+
+Peter has cards: [D3, C6, S8, H9, CQ]
+
+Susan has cards: [S4, H7, HQ, DA, CA]
+
+John plays D5
+
+Mary plays S2
+
+Peter plays CQ
+
+Susan plays CA
+
+The winner of this round is Susan.
+
+
+
+John has cards: [D7, S7, D8, SA]
+
+Mary has cards: [C4, C8, CK, HK]
+
+Peter has cards: [D3, C6, S8, H9]
+
+Susan has cards: [S4, H7, HQ, DA]
+
+John plays D7
+
+Mary plays C4
+
+Peter plays H9
+
+Susan plays DA
+
+The winner of this round is Susan.
+
+
+
+John has cards: [S7, D8, SA]
+
+Mary has cards: [C8, CK, HK]
+
+Peter has cards: [D3, C6, S8]
+
+Susan has cards: [S4, H7, HQ]
+
+John plays S7
+
+Mary plays C8
+
+Peter plays S8
+
+Susan plays HQ
+
+The winner of this round is Susan.
+
+
+
+John has cards: [D8, SA]
+
+Mary has cards: [CK, HK]
+
+Peter has cards: [D3, C6]
+
+Susan has cards: [S4, H7]
+
+John plays D8
+
+Mary plays CK
+
+Peter plays C6
+
+Susan plays H7
+
+The winner of this round is Mary.
+
+
+
+John has cards: [SA]
+
+Mary has cards: [HK]
+
+Peter has cards: [D3]
+
+Susan has cards: [S4]
+
+John plays SA
+
+Mary plays HK
+
+Peter plays D3
+
+Susan plays S4
+
+The winner of this round is John
